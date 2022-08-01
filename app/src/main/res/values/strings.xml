@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickrViewer</string>
+    <string name="img_des">This is an image from flicker</string>
+    <string name="cal">calendar icon</string>
+    <string name="file">file icon</string>
+    <string name="tag">tag icon</string>
+    <string name="prev">prev button</string>
+    <string name="refresh">refresh button</string>
+    <string name="next">next button</string>
+</resources>
